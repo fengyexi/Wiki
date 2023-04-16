@@ -2,7 +2,7 @@
 
 ### 下载游戏
 
-您可以打开枫叶希服务器的官网或者加入QQ群，我们提供了服务器推荐使用客户端及运行客户端所需要的 `java 17` **64位安装包** ，方便您的下载。
+您可以打开枫叶希服务器的官网或者加入[服务器交流群](https://qm.qq.com/cgi-bin/qm/qr?k=nX-\_OUdwJVNdi\_PyyRSbPZDBci8O0Epb\&jump\_from=webapi\&authKey=SoIlENOLDEz9FOYMYWPVO2g+1n2cMxCKd7e1YMHVh6CuqO5yl+yASpJRp/AfT+Nr)，我们提供了服务器推荐使用客户端及运行客户端所需要的 `java 17` **64位安装包** ，方便您的下载。
 
 ### 安装java 17
 
