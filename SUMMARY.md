@@ -39,6 +39,7 @@
     * [💹 金砖充值](you-xi-nei-rong/xiao-mai-bu/jin-zhuan-chong-zhi.md)
     * [🐇 宠物商城](you-xi-nei-rong/xiao-mai-bu/chong-wu-shang-cheng.md)
 * [🪧 服务器指令](fu-wu-qi-zhi-ling.md)
+* [🏺 周常驻活动](zhou-chang-zhu-huo-dong.md)
 * [🏢 公共建筑](gong-gong-jian-zhu.md)
 * [📒 更新日志](geng-xin-ri-zhi/README.md)
   * [2023.04月更新日志](geng-xin-ri-zhi/2023.04-yue-geng-xin-ri-zhi/README.md)
